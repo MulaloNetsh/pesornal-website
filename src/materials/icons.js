@@ -1,0 +1,15 @@
+export { default as expIcon } from './icons8-work-experience-50.png';
+export { default as eduIcon } from './icons8-education-50.png';
+export { default as reactIcon } from './icons8-react-native-48.png';
+export { default as fluterIcon } from './icons8-flutter-48.png';
+export { default as expresIcon } from './icons8-express-js-48.png';
+export { default as postmanIcon } from './icons8-postman.png';
+export { default as javascriptIcon } from './icons8-javascript-48.png';
+export {default as pythonIcon} from "./icons8-python-50.png";
+export {default as cIcon } from "./icons8-c-programming-50.png";
+export {default as cppIcon } from "./icons8-c++-50.png";
+export {default as htmlIcon } from "./icons8-html-5-50.png";
+export {default as cssIcon } from "./icons8-css3-50.png";
+export {default as emailIcon } from "./email-icon.png";
+export {default as nameIcon } from "./name-icon.png";
+export {default as Logo } from "./mulalo-logo.png";
